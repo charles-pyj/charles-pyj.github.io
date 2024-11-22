@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S.E in University of Michigan 2025 (expected)
-* B.S.E in Shanghai JiaoTong University 2025 (expected)
+* B.S.E in University of Michigan 2023.8 - 2025.5 (expected)
+* B.S.E in Shanghai JiaoTong University 2021.9 - 2025.5 (expected)
 
 Work experience
 ======
