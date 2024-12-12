@@ -21,7 +21,7 @@ repository               : "charles-pyj/charles-pyj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Yijun Pan"
   pronouns         : # example: "she/her"  
   bio              : "Senior undergrad student, DS-Eng @ Umich, ECE @ SJTU"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   semantic         : # URL
   researchgate     : # URL
