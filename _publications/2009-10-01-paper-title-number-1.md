@@ -1,9 +1,9 @@
 ---
 title: "dattri: A Library for Efficient Data Attribution"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024-05-01
 venue: 'NeuraIPS Dataset & Benchmark Track (spotlight)'
 slidesurl: 'https://arxiv.org/abs/2410.04555'
