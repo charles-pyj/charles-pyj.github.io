@@ -1,5 +1,5 @@
 ---
-title: "Interpreting Spatial Reasoning Capabilities in Language Models Test"
+title: "Interpreting Spatial Reasoning Capabilities in Language Models"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
