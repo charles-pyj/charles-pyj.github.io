@@ -203,7 +203,7 @@ kramdown:
   enable_coderay: false
 
 
-These settings control the types of collections used by the template
+# These settings control the types of collections used by the template
 collections:
   publications:
     output: true
