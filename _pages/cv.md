@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S.E in University of Michigan 2023.8 - 2025.5 (expected)
-* B.S.E in Shanghai JiaoTong University 2021.9 - 2025.5 (expected)
+* B.S in Data Science at University of Michigan 2023.8 - 2025.5
+* B.S in Electric & Computer Engeering @ Shanghai JiaoTong University 2021.9 - 2025.5
+* M.S in Computer Science (2 year track) @ Yale University 2025.8 - 2027.5 (expected)
 
 Work experience
 ======
